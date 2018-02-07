@@ -16,5 +16,6 @@
 
 
 ### Images: 
-![Flat Choropleth](https://github.com/adonovan7/AugmentedWorldHappinessReport/blob/master/FlatChoro.png?raw=true)
-![3D Choropleth](https://github.com/adonovan7/AugmentedWorldHappinessReport/blob/master/3DChor.png?raw=true)
+![Flat Choropleth](https://github.com/adonovan7/AugmentedWorldHappinessReport/blob/master/Images/FlatChoro.png?raw=true)
+![3D Choropleth](https://github.com/adonovan7/AugmentedWorldHappinessReport/blob/master/Images/3DChor.png?raw=true)
+
